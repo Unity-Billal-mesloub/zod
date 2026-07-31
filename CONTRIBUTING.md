@@ -99,7 +99,4 @@ Zod uses Vitest for testing. After implementing your contribution, write tests f
 
 The documentation site lives in `packages/docs` with content located at `packages/docs/content`. Be sure to document any API changes you implement.
 
-## License
 
-By contributing your code to the zod GitHub repository, you agree to
-license your contribution under the MIT license.
